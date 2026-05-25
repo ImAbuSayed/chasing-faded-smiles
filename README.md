@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chasing-faded-smiles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Chasing Faded Smiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-faded-smiles/) |
+| **Get License** | [Get a Licensing Quote for Chasing Faded Smiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-faded-smiles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `976178a832fda563dfc882544f11722f95a1febacf6f6e2b2fc2e8a8103c4a63` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
