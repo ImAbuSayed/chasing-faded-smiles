@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chasing-faded-smiles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Chasing Faded Smiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-faded-smiles/) |
+| **Get License** | [License this song: Chasing Faded Smiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-faded-smiles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There is a memory hiding in the back of your eyes
+> Like a golden sunset in the southern skies
+> I want to uncover every secret you keep
+> And dive into a love that is running too deep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
